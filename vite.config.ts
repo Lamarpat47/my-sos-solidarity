@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/my-sos-solidarity/',
+  base: '/my-SOS-Solidarity/',
   resolve: {
     dedupe: ['react', 'react-dom', 'react-router-dom'],
   },

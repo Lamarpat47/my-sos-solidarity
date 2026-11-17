@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Lamarpat47.github.io/my-sos-solidarity",
+ "homepage": "https://Lamarpat47.github.io/my-SOS-Solidarity",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
