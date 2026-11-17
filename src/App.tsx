@@ -12,7 +12,7 @@ import Footer from './pages/Footer';
 export function App() {
   return (
     <LanguageProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/my-sos-solidarity">
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<FullEnglishHome />} />
